@@ -1,0 +1,21 @@
+uname
+cd
+mkdir
+rmdir
+mv
+rm
+cp
+sudo su
+touch
+cat
+echo
+ls
+gzip
+tar -cvf
+history
+sort
+less
+grep
+top
+kill
+ps
